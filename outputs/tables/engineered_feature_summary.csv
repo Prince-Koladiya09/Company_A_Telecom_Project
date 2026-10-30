@@ -1,0 +1,6 @@
+Feature,Mean,Median,Missing_Percent,Unique_Values
+revenue_change_ratio,0.055,-0.009,0.891,66011
+customer_care_usage_ratio,0.004,0.0,1.972,33244
+usage_change_ratio,0.133,-0.043,2.608,76214
+recent_vs_six_month_usage,0.996,1.012,3.557,54991
+revenue_per_minute,0.576,0.139,1.972,94463

@@ -1,0 +1,8 @@
+,dtype,missing_count,missing_percent,unique_values
+revenue_change_ratio,float64,891,0.89,66011
+customer_care_usage_ratio,float64,1972,1.97,33244
+usage_change_ratio,float64,2608,2.61,76214
+recent_vs_six_month_usage,float64,3557,3.56,54991
+revenue_per_minute,float64,1972,1.97,94463
+equipment_age_group,object,1,0.0,5
+tenure_group,object,0,0.0,6
